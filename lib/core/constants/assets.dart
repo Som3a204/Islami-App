@@ -1,0 +1,30 @@
+abstract class Assets {
+  static const String splashBackgroundImg ='assets/images/islami_splash_background.png';
+  static const String quranBackgroundImg ='assets/images/quran_background_img.png';
+  static const String hadithBackgroundImg ='assets/images/hadith_background_img.png';
+  static const String sebhaBackgroundImg ='assets/images/sebha_background_img.png';
+  static const String radioBackgroundImg ='assets/images/radio_background_img.png';
+  static const String timeBackgroundImg ='assets/images/time_background_img.png';
+  static const String islamiLogo = 'assets/images/islami_logo.png';
+  static const String quranIcn = 'assets/icons/SuraIcn.png';
+  static const String suraImg = 'assets/images/quran_sura.png';
+  static const String suraFrame = 'assets/icons/sura_frame.png';
+  static const String suraBackground = 'assets/images/Quran_view_background.png';
+  static const String hadithCardLeftCorner = 'assets/images/hadith_left_corner.png';
+  static const String hadithCardRightCorner = 'assets/images/hadith_right_corner.png';
+  static const String hadithCardBackground = 'assets/images/HadithCardBackGround.png';
+  static const String mosqueImg = 'assets/images/Mosque-Img.png';
+      static const String hadithIcn ='assets/icons/HadithIcn.png';
+      static const String sebhaIcn = 'assets/icons/SebhaIcn.png';
+      static const String radioIcn = 'assets/icons/RadioIcn.png';
+      static const String timeIcn = 'assets/icons/TimeIcn.png';
+  static const String sebhaHead = 'assets/images/sebha_head.png';
+  static const String sebhaBody = 'assets/images/SebhaBody.png';
+  static const String onBoarding1 = 'assets/images/onBoarding1.png';
+  static const String onBoarding2 = 'assets/images/onBoarding2.png';
+  static const String onBoarding3 = 'assets/images/onBoarding3.png';
+  static const String onBoarding4 = 'assets/images/onBoarding4.png';
+  static const String onBoarding5 = 'assets/images/onBoarding5.png';
+  static const String playIcn = 'assets/icons/PlayIcn.png';
+  static const String volHighIcn = 'assets/icons/VolHigh.png';
+}
